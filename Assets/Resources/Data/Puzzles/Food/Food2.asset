@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: Food2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Y
+    - D
+    - T
+    - U
+    - T
+    - Z
+    - Z
+    - P
+    - F
+    - D
+  - Size: 10
+    Row:
+    - S
+    - U
+    - P
+    - H
+    - Q
+    - S
+    - Z
+    - A
+    - F
+    - S
+  - Size: 10
+    Row:
+    - V
+    - F
+    - M
+    - S
+    - C
+    - K
+    - O
+    - S
+    - A
+    - O
+  - Size: 10
+    Row:
+    - Z
+    - B
+    - B
+    - U
+    - Y
+    - P
+    - N
+    - T
+    - H
+    - Y
+  - Size: 10
+    Row:
+    - Y
+    - U
+    - P
+    - A
+    - R
+    - Y
+    - R
+    - A
+    - U
+    - P
+  - Size: 10
+    Row:
+    - P
+    - U
+    - J
+    - S
+    - L
+    - T
+    - Y
+    - M
+    - V
+    - E
+  - Size: 10
+    Row:
+    - A
+    - K
+    - M
+    - W
+    - G
+    - D
+    - A
+    - T
+    - X
+    - W
+  - Size: 10
+    Row:
+    - S
+    - A
+    - A
+    - U
+    - O
+    - R
+    - S
+    - T
+    - G
+    - T
+  - Size: 10
+    Row:
+    - T
+    - C
+    - W
+    - X
+    - T
+    - A
+    - X
+    - N
+    - C
+    - U
+  - Size: 10
+    Row:
+    - A
+    - E
+    - N
+    - A
+    - R
+    - T
+    - Z
+    - Z
+    - I
+    - P
+  SearchWords:
+  - Word: BAL
+  - Word: TUT
+  - Word: PASTA
+  - Word: SUP
+  - Word: YUMURTA
+  - Word: TOST

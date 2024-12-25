@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: Animal1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 30
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - S
+    - B
+    - U
+    - C
+    - C
+    - A
+  - Size: 6
+    Row:
+    - Z
+    - U
+    - K
+    - A
+    - V
+    - S
+  - Size: 6
+    Row:
+    - O
+    - O
+    - R
+    - T
+    - D
+    - L
+  - Size: 6
+    Row:
+    - P
+    - P
+    - A
+    - N
+    - D
+    - A
+  - Size: 6
+    Row:
+    - A
+    - H
+    - K
+    - E
+    - K
+    - N
+  - Size: 6
+    Row:
+    - D
+    - O
+    - V
+    - P
+    - A
+    - N
+  SearchWords:
+  - Word: ASLAN
+  - Word: PANDA
+  - Word: AT
