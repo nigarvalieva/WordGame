@@ -1,5 +1,7 @@
+**Serious games**
+**Final Project**
 # WordGame-GameProject
-It is a word puzzle game made with Unity.
+It is a word puzzle game made with Unity. 
 
 Home page 
 
